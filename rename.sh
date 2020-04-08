@@ -6,3 +6,4 @@ for file in *.txt; do
 done
 
 echo program finished
+echo testing again
