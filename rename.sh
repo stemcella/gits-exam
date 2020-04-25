@@ -8,3 +8,4 @@ done
 echo program finished
 echo testing again
 echo commit1
+echo commit3
